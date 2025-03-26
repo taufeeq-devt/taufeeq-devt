@@ -28,5 +28,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=taufeeq-devt&show_icons=true&locale=en" alt="taufeeq-devt" /></p>
 
 ### 🐍 GitHub Contribution Graph
-![Snake animation](https://github.com/taufeeq-devt/taufeeq-devt/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/taufeeq-devt/taufeeq-devt/blob/dist/github-contribution-grid-snake.svg)
 
