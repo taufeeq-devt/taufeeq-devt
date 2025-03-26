@@ -27,3 +27,7 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/linkedin.com/in/taufeeq-iqbal-khan-a854ba248" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=taufeeq-devt&show_icons=true&locale=en" alt="taufeeq-devt" /></p>
 
+<h2 style="text-align: center;">🐍 GitHub Contribution Snake</h2>
+<p align="center">
+  <img src="https://github.com/taufeeq-devt/taufeeq-devt/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
