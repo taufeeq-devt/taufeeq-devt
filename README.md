@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Taufeeq Iqbal Khan</h1>
+<h1 style="text-align: center;">Hi 👋, I'm Taufeeq Iqbal Khan</h1>
 <p>I am a Full-Stack Developer passionate about building scalable and efficient applications. With expertise in Java, JavaScript, React, Node.js, and Blockchain, I love working on projects that bridge the gap between technology and real-world solutions. My journey in tech involves developing web applications, AI-powered tools, and real-time data processing platforms. </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -27,7 +27,4 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/linkedin.com/in/taufeeq-iqbal-khan-a854ba248" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=taufeeq-devt&show_icons=true&locale=en" alt="taufeeq-devt" /></p>
 
-<h2 style="text-align: center;">🐍 GitHub Contribution Snake</h2>
-<p align="center">
-  <img src="https://github.com/taufeeq-devt/taufeeq-devt/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
