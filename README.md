@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Taufeeq Iqbal Khan</h1>
-<p></p>
+<p>I am a Full-Stack Developer passionate about building scalable and efficient applications. With expertise in Java, JavaScript, React, Node.js, and Blockchain, I love working on projects that bridge the gap between technology and real-world solutions. My journey in tech involves developing web applications, AI-powered tools, and real-time data processing platforms. </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
